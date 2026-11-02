@@ -1,0 +1,51 @@
+{
+ "_leia": "TESTE: provas do ano passado (gera um gabaritos.json real para conferir o app)",
+ "exams": {
+  "ufpr27": {
+   "nome": "UFPR 2026 (teste)",
+   "tipo": "nc_ufpr",
+   "a_partir_de": "2025-11-01",
+   "provas": [
+    "2025-11-02"
+   ],
+   "base": "https://servicos.nc.ufpr.br/documentos/ps2026/provas/",
+   "pagina": "https://servicos.nc.ufpr.br/PortalNC/Concurso?concurso=PS2026",
+   "alts": "ABCDE",
+   "esperado": 90,
+   "prova_geral": "INGL",
+   "noticias": null,
+   "exigir": [
+    "UFPR"
+   ]
+  },
+  "enem26": {
+   "nome": "ENEM 2025 (teste)",
+   "tipo": "inep",
+   "a_partir_de": "2025-11-09",
+   "provas": [
+    "2025-11-09",
+    "2025-11-16"
+   ],
+   "ano": 2025,
+   "noticias": null,
+   "exigir": [
+    "ENEM"
+   ]
+  },
+  "ufrgs27": {
+   "nome": "UFRGS 2026 (teste)",
+   "tipo": "ufrgs_html",
+   "a_partir_de": "2025-11-29",
+   "provas": [
+    "2025-11-29",
+    "2025-11-30"
+   ],
+   "url": "https://vestibular.ufrgs.br/cv2026/gabaritos/",
+   "final": "2025-12-05T15:00:00",
+   "noticias": null,
+   "exigir": [
+    "UFRGS"
+   ]
+  }
+ }
+}

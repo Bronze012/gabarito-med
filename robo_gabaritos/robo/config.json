@@ -1,0 +1,115 @@
+{
+ "_leia": "Cada prova: tipo do leitor, de onde baixar e a partir de quando vigiar. 'noticias' = busca no Google Notícias por correções extraoficiais.",
+ "exams": {
+  "ufpr27": {
+   "nome": "UFPR 2027",
+   "tipo": "nc_ufpr",
+   "a_partir_de": "2026-11-01",
+   "provas": [
+    "2026-11-01"
+   ],
+   "base": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/",
+   "pagina": "https://servicos.nc.ufpr.br/PortalNC/Concurso?concurso=PS2027",
+   "alts": "ABCD",
+   "esperado": 80,
+   "prova_geral": "INGL",
+   "noticias": "gabarito UFPR 2027 vestibular correção",
+   "exigir": [
+    "UFPR"
+   ]
+  },
+  "enem26": {
+   "nome": "ENEM 2026",
+   "tipo": "inep",
+   "a_partir_de": "2026-11-08",
+   "provas": [
+    "2026-11-08",
+    "2026-11-15"
+   ],
+   "ano": 2026,
+   "noticias": "gabarito extraoficial ENEM 2026 correção",
+   "exigir": [
+    "ENEM"
+   ]
+  },
+  "ufrgs27": {
+   "nome": "UFRGS 2027",
+   "tipo": "ufrgs_html",
+   "a_partir_de": "2026-11-28",
+   "provas": [
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "url": "https://vestibular.ufrgs.br/cv2027/gabaritos/",
+   "final": "2026-12-04T15:00:00",
+   "noticias": "gabarito UFRGS 2027 vestibular correção",
+   "exigir": [
+    "UFRGS"
+   ]
+  },
+  "pucrs27": {
+   "nome": "PUCRS 2027",
+   "tipo": "watch",
+   "banca": "PUCRS",
+   "a_partir_de": "2026-12-05",
+   "provas": [
+    "2026-12-05"
+   ],
+   "paginas": [
+    "https://vestibular.pucrs.br/"
+   ],
+   "palavras": [
+    "gabarito"
+   ],
+   "n": 70,
+   "noticias": "gabarito vestibular PUCRS medicina 2027",
+   "exigir": [
+    "PUCRS"
+   ]
+  },
+  "fmv27": {
+   "nome": "Medicina Moinhos (FMV) 2027",
+   "tipo": "watch",
+   "banca": "Vunesp",
+   "a_partir_de": "2026-12-06",
+   "provas": [
+    "2026-12-06"
+   ],
+   "paginas": [
+    "https://www.vunesp.com.br/FSMV2602"
+   ],
+   "palavras": [
+    "gabarito"
+   ],
+   "n": 40,
+   "noticias": "gabarito vestibular medicina Moinhos de Vento Vunesp 2027",
+   "exigir": [
+    "Moinhos",
+    "Vunesp"
+   ]
+  },
+  "pss3_27": {
+   "nome": "PSS 3 UFSM 2027",
+   "tipo": "watch",
+   "banca": "Coperves/UFSM",
+   "a_partir_de": "2027-01-10",
+   "provas": [
+    "2027-01-10"
+   ],
+   "paginas": [
+    "https://www.ufsm.br/pro-reitorias/prograd/ingresse-na-ufsm/processos-seletivos"
+   ],
+   "palavras": [
+    "gabarito"
+   ],
+   "filtro": [
+    "pss"
+   ],
+   "n": 40,
+   "noticias": "gabarito PSS UFSM 2027",
+   "exigir": [
+    "PSS"
+   ]
+  }
+ }
+}

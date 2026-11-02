@@ -1,0 +1,54 @@
+{
+ "versao": 1,
+ "gerado_por": "robo-gabaritos",
+ "exams": {
+  "ufpr27": {
+   "fontes": [],
+   "log": [
+    "definitivo/Geral.pdf: ainda não publicado",
+    "provisorio/Geral.pdf: ainda não publicado"
+   ],
+   "links": [],
+   "status": "aguardando",
+   "nome": "UFPR 2027",
+   "noticias": [],
+   "desde": {}
+  },
+  "enem26": {
+   "status": "aguardando",
+   "nome": "ENEM 2026",
+   "log": [
+    "robô começa a vigiar em 2026-11-08"
+   ]
+  },
+  "ufrgs27": {
+   "status": "aguardando",
+   "nome": "UFRGS 2027",
+   "log": [
+    "robô começa a vigiar em 2026-11-28"
+   ]
+  },
+  "pucrs27": {
+   "status": "aguardando",
+   "nome": "PUCRS 2027",
+   "log": [
+    "robô começa a vigiar em 2026-12-05"
+   ]
+  },
+  "fmv27": {
+   "status": "aguardando",
+   "nome": "Medicina Moinhos (FMV) 2027",
+   "log": [
+    "robô começa a vigiar em 2026-12-06"
+   ]
+  },
+  "pss3_27": {
+   "status": "aguardando",
+   "nome": "PSS 3 UFSM 2027",
+   "log": [
+    "robô começa a vigiar em 2027-01-10"
+   ]
+  }
+ },
+ "verificado": "2026-11-01T22:26-03:00"
+}
