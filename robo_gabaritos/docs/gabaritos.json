@@ -8,7 +8,23 @@
     "definitivo/Geral.pdf: ainda não publicado",
     "provisorio/Geral.pdf: ainda não publicado"
    ],
-   "links": [],
+   "links": [
+    {
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/geral.pdf",
+     "titulo": "",
+     "nome": "NC-UFPR"
+    },
+    {
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/010.pdf",
+     "titulo": "",
+     "nome": "NC-UFPR"
+    },
+    {
+     "url": "https://sistemas.nc.ufpr.br/recursoPS/login",
+     "titulo": "Consulta ao gabarito provisório do modelo de prova realizado e interposição de recursos Serão aceitos recursos contra o gabarito provisório das 12h00min de 03/1",
+     "nome": "NC-UFPR"
+    }
+   ],
    "status": "aguardando",
    "nome": "UFPR 2027",
    "noticias": [],
@@ -50,5 +66,5 @@
    ]
   }
  },
- "verificado": "2026-11-03T12:10-03:00"
+ "verificado": "2026-11-03T12:55-03:00"
 }
