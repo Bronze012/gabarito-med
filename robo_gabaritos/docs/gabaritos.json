@@ -63,7 +63,14 @@
    "versoes": {},
    "status": "aguardando",
    "nome": "ENEM 2026",
-   "noticias": [],
+   "noticias": [
+    {
+     "titulo": "Enem 2026 ao vivo: acompanhe a cobertura da prova em tempo real - G1",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckZVNWI0b09oc2RwcUQzSU9wcDZRYWxZWmpkRUhpU21EZGZkbEpSdXd5Mzk1N1hpa3FWMUpDd0hJY2dudGxYNmlaeXc1RjBoTDFlZ2FMWTctZW5CQ0Q0Y3h5R0NHSlpWVkNkX0VobXVncDhJSVhvclNsbnBZTnZheGVhZjBHcXBTaU9ZMmZIZUFqbEtRVzhKSi1lQmVwYkpfME53NE5ueEdHMHBZSUFiT0xfVl8zNTJjU3BWX01KaUtYVE9YVlHSAdQBQVVfeXFMT241SThJTlRjR2FNbmxSRFEta2k1UkhSekY4U1g1d0d6dk5Cc2cyUjhFTGhWdE1mM1dna0lYcTM4WHRjSkpBMUN6Yld1TWpQUlNCNUtDVlZOUk1zSlZRdktVYmFCTldqNXJKZWJ2d0NRMnFOdDBtX3ZjdVJnMHBBQmswbGFJWTladkpxbFZ6VXFCWEJvQU5sUllpMVFubmxZMENsNnloVHZub184X2s0YVBOWkI3REVoLVpQRzh1eTktMXBqV01ZSXM3VHdHRjE0NkFzck4?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T00:00-03:00"
+    }
+   ],
    "desde": {}
   },
   "ufrgs27": {
@@ -95,5 +102,5 @@
    ]
   }
  },
- "verificado": "2026-11-08T00:16-03:00"
+ "verificado": "2026-11-08T01:17-03:00"
 }
