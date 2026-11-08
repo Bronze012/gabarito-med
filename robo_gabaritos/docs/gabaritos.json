@@ -56,11 +56,15 @@
    "desde": {}
   },
   "enem26": {
+   "fontes": [],
+   "log": [
+    "gabaritos do Inep ainda não publicados"
+   ],
+   "versoes": {},
    "status": "aguardando",
    "nome": "ENEM 2026",
-   "log": [
-    "robô começa a vigiar em 2026-11-08"
-   ]
+   "noticias": [],
+   "desde": {}
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -91,5 +95,5 @@
    ]
   }
  },
- "verificado": "2026-11-07T23:29-03:00"
+ "verificado": "2026-11-08T00:16-03:00"
 }
