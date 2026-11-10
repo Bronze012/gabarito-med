@@ -10,12 +10,12 @@
    ],
    "links": [
     {
-     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/geral.pdf",
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/010.pdf",
      "titulo": "",
      "nome": "NC-UFPR"
     },
     {
-     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/010.pdf",
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/geral.pdf",
      "titulo": "",
      "nome": "NC-UFPR"
     },
@@ -65,16 +65,16 @@
      "quando": "2026-11-10T16:59-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
-     "fonte": "G1",
-     "quando": "2026-11-08T19:48-03:00"
-    },
-    {
      "titulo": "Gabarito Enem 2026: correção extraoficial do primeiro dia - Guia do Estudante",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
      "fonte": "Guia do Estudante",
      "quando": "2026-11-08T15:02-03:00"
+    },
+    {
+     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T19:48-03:00"
     },
     {
      "titulo": "Gabarito Enem 2026: prova verde - Quero Bolsa",
@@ -162,5 +162,5 @@
    ]
   }
  },
- "verificado": "2026-11-10T17:12-03:00"
+ "verificado": "2026-11-10T17:51-03:00"
 }
