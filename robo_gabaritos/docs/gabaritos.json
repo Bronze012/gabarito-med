@@ -53,16 +53,10 @@
    "nome": "ENEM 2026",
    "noticias": [
     {
-     "titulo": "Confira o gabarito extraoficial de todos os cadernos do Enem 2026 - Metrópoles",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEZsak5iYmpGZm9HckV5MjNSUjZEa0ZhYUhwSUFpQXUxdnViRldCbGpPbVEtVTNYOEJJbHBuY1BKdnZJb3hQN0lEU0xHTWdSVFR2RnhoRnQta2U4c3RIRFJZUmp1aVZSX3p1Vm5OSXB0ZV9CLUNNOW02bVFiNGR2ZnNhWFAxbGxGR3lKN0JSY3BWT3J5bGRRZkZnVEFkdWc5?oc=5",
-     "fonte": "Metrópoles",
-     "quando": "2026-11-09T19:04-03:00"
-    },
-    {
-     "titulo": "Enem 2026: onde consultar o gabarito oficial após a correção extraoficial - Blog do Vestibular",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzB2MlE5aHhWVFV3UVRtQjRqRHUzZXMwTk1pbS1zMVhFTzlLRGxGRG15UUNyellyVTdxcW5QaTczcExaOVVCUW9HLThNWG5DU0hTWThFUVZPS0dxUW1PQjJnSlIwU2JqT0NvUmFQckYyVHdMZ0FiaEk0QlljdTJrQWMwM2tFbGNKM2tZOFEySTNIT2lNdkQtZm5mSktLLTBsdGRwVGt6STBhbHBtN3BuajExSy1KZw?oc=5",
-     "fonte": "Blog do Vestibular",
-     "quando": "2026-11-09T21:34-03:00"
+     "titulo": "Enem 2026: onde consultar o gabarito oficial após a correção extraoficial - VestibulandoWeb",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEFuaWU2bEJ5Ymd2dHBuNDU5Qk9ZVTU4b284Q2x4RXFsZ0RZb1hLSDIyemowOEpiWW9oYklqOVdiMHhaRFoyUEkxdmZ1cU9XY2R5R205bGZ5RFhPTnNCNnM3NDhON0l0Rk5CY1hQYzk5UWJLZnZmSU5CODJFRTNERWVEZHN0ZnRMZjZTX05sNzNrZ3hVcWxfNFU4VmFRU1liZk9mSnhYTzJadmNNLXdUZC12SdIBswFBVV95cUxQZEFuaWU2bEJ5Ymd2dHBuNDU5Qk9ZVTU4b284Q2x4RXFsZ0RZb1hLSDIyemowOEpiWW9oYklqOVdiMHhaRFoyUEkxdmZ1cU9XY2R5R205bGZ5RFhPTnNCNnM3NDhON0l0Rk5CY1hQYzk5UWJLZnZmSU5CODJFRTNERWVEZHN0ZnRMZjZTX05sNzNrZ3hVcWxfNFU4VmFRU1liZk9mSnhYTzJadmNNLXdUZC12SQ?oc=5",
+     "fonte": "VestibulandoWeb",
+     "quando": "2026-11-09T21:33-03:00"
     },
     {
      "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
@@ -123,6 +117,12 @@
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLVIyZklPYkRIU01XLXVVOC1MLWluRHduMGZEMFdCeDNVeXgwMVZqTGxBRXc2TzhpTnhuelJlemhSNGVwT3VYOGJ2T0Z4OWtlTjRmODhidHFqRWtrUnppVXNKT2VvaXRmNDgxbTNvRHc0V2txX3Vv?oc=5",
      "fonte": "Quero Bolsa",
      "quando": "2026-11-08T18:56-03:00"
+    },
+    {
+     "titulo": "Confira o gabarito extraoficial do 1º dia do Enem 2026 - Folha de S.Paulo",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHlZVjdadU5Fa3pKUmNwOXFvVFp0WWRJOWpFRk52b2lOY1o5S1JhTlMtcXlmY0hqd3BXYXloRXItbEJTQzZ3cXNDeHluX3ZtV3F2RFRRYmJrd2FBcDl2dzNpWU5Qc0hST2RPOEw3ZHdpYms5YUZTNS1OVzF4Z1JPbG9vSEZWNlNWMGVlbGgtZWhtdGtBYlJ6Q0t0c2VGclRpTmhjcXVHZVpJVGc?oc=5",
+     "fonte": "Folha de S.Paulo",
+     "quando": "2026-11-08T21:42-03:00"
     }
    ],
    "desde": {}
@@ -156,5 +156,5 @@
    ]
   }
  },
- "verificado": "2026-11-13T04:43-03:00"
+ "verificado": "2026-11-13T06:33-03:00"
 }
