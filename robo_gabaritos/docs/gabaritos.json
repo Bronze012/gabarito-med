@@ -53,22 +53,16 @@
    "nome": "ENEM 2026",
    "noticias": [
     {
-     "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
-     "fonte": "G1",
-     "quando": "2026-11-08T19:51-03:00"
-    },
-    {
      "titulo": "Gabarito Enem 2026: confira as respostas extraoficiais do 1º dia de prova - CNN Brasil",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeExhNHAtZ1hicE1xYnlCaFgzNUJsOWgwX0djOW03MmlDX2FtNTBRSTJBb3EyRDh0NkRjVTVFbTI5Z3NiMXlReXMxVElZaTdySUY1U0ROdTFZa2pZR3VqWUhXTEFrdmFiV0ZSb0hKbWVjRXI5U2hZd1ZYQUNKMFNzUHFzVi1TdVc0Rk1iVzhMX2dNOEVtWkQ0RnlVSVJBV3I2cXVLYkM2OHAtMW5FdHhEUg?oc=5",
      "fonte": "CNN Brasil",
      "quando": "2026-11-10T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
+     "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
      "fonte": "G1",
-     "quando": "2026-11-08T19:48-03:00"
+     "quando": "2026-11-08T19:51-03:00"
     },
     {
      "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
@@ -77,10 +71,22 @@
      "quando": "2026-11-08T19:46-03:00"
     },
     {
+     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T19:48-03:00"
+    },
+    {
      "titulo": "Gabarito Enem 2026: correção extraoficial do primeiro dia - Guia do Estudante",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
      "fonte": "Guia do Estudante",
      "quando": "2026-11-09T09:59-03:00"
+    },
+    {
+     "titulo": "Gabarito Enem 2026 1º dia prova verde extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLUVHTnI0dGZqb25LTEpqTXVzYlRLZ1FwcGlwSUlJUGQ1Qk9aRTBDVjZmVjc4REJRUmc4ejNGeFJhUnVWSUFIUzc5Qk8yQnlOU0t2U3d0NkEyaEcxYlZLblFBY2tFWlhMc1pYWUtLaldXNGNWV0JkWXVGNnRPbVE5WW5BTjYyVlJlOEoxbWFCNktGUGxvd1poVV8wTWVDckpoZXJxTmxnSVpwMUI0WDFrajl6dDllUVRvUnRKbG9kSG5KSTFlRkttVFFMYlZTLUljTjRF0gHiAUFVX3lxTFAtWnJYM0d6QnM3ZmhjSU5yMDNkZW1KOHlPZTBiWi1kUHdERGdCQzkxLUZNVS1oTkR2T09rbkFzdmNEdmkzRFhxRTQ1ZDQ3N0RGUDEwMldjelRsNlpRX3JuRHhjLUpxZ2F1ZGRLckpmb09LMG5hNDZ5bXVSRmdScHNMU0RlZm9zMEtNOXlnSENUcVpwckJoTUlibmQ0elJKZXJKMm52bGR2T1BRNEQxN1ktQWdmb3oyTEVaWDg0eWhESDJ2UGhHdXQ1dG9JVlZpR3BHandxRlBEa0ozSXoxS2gyOXc?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T19:53-03:00"
     },
     {
      "titulo": "Gabarito extraoficial do Enem 2026: veja sites que realizam a correção da prova - Exame",
@@ -111,12 +117,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHlZVjdadU5Fa3pKUmNwOXFvVFp0WWRJOWpFRk52b2lOY1o5S1JhTlMtcXlmY0hqd3BXYXloRXItbEJTQzZ3cXNDeHluX3ZtV3F2RFRRYmJrd2FBcDl2dzNpWU5Qc0hST2RPOEw3ZHdpYms5YUZTNS1OVzF4Z1JPbG9vSEZWNlNWMGVlbGgtZWhtdGtBYlJ6Q0t0c2VGclRpTmhjcXVHZVpJVGc?oc=5",
      "fonte": "Folha de S.Paulo",
      "quando": "2026-11-08T21:42-03:00"
-    },
-    {
-     "titulo": "Gabarito Enem 2026: veja correção extraoficial do 1º dia de provas - O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdU1takVIRTVaUEtiWmF4ajlrVzlvS3FNcXJuSjBhd05VTWVtOEtzMmpHOEduc0I2VnhvOVlaXy13NHhCS0ZKRlRJTkV3N0psMWRjeExoZjc5ZmdjX2tiNkJUUml3bXJzYUdDbDVFWXNneTBQMXZLREJXSkRHRDhzWC12SEpRTmVQUjI0aHppMjhVYnU1NFpWckZLRklwVVpkNTNnM0RjUDNNdzAxQk5xa1h6YmpMWlFwdUpubk0wd1Y1OGR6d2dJWGRJUU5ldW1LRjI5OUpIQ1MzRGFBNDhOVTUtRdIB8gFBVV95cUxNd3BuTVBfZ3ZXSE02NDdxRnVGbUdKOXJqY1Z0MmpacXd2em9OMG52eGVESTJLSWp5OUlJNmZwRUl0MmhlM1dJQ2pEY0F4OENXeVpVdnhBUHc3ak1wR3JEdVlCLWFmczlxVjVYNUFlMGJuQUdJdThodXpyRTlvUktadXVHNXozOE52aTc5cFZ5WTVmNVVzWTdfSFhWSE82dEpIMWJ1dGhod1BTSlpEQVA1S3dmdGdMN1VfNTJXRkZBNHh1VzRKbnBmbkhYQVNqU3JrQlZhWDhRaURtRzNxNnEwRlZrQjlTQWV1eUZNdDQwZzBzQQ?oc=5",
-     "fonte": "O GLOBO",
-     "quando": "2026-11-08T17:20-03:00"
     },
     {
      "titulo": "Gabarito Enem 2026: veja respostas extraoficiais da prova azul no 1º dia - CNN Brasil",
@@ -156,5 +156,5 @@
    ]
   }
  },
- "verificado": "2026-11-13T16:34-03:00"
+ "verificado": "2026-11-13T17:30-03:00"
 }
