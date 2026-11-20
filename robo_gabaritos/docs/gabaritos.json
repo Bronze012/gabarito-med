@@ -29,12 +29,6 @@
    "nome": "UFPR 2027",
    "noticias": [
     {
-     "titulo": "Quando sai o gabarito da UFPR 2027? - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZ05udVppZDlpTnZpVXZUVmp6YlB3SXVZd1Z5ZC01d3Q2T2pVeEJhXzRQcFd3dkdqWXhyWG0xV2diNXpXbXB0SHNZZ2VVdVhkMjdnZ3JjS0NTcEhUR1p4TEtxYnFrTnVfVEZZMnl1NHdUZDJK?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-01T04:00-03:00"
-    },
-    {
      "titulo": "UFPR divulga gabarito do Vestibular 2027: veja respostas da prova - Vestibular – Brasil Escola",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlhEMFFneFpneEhDakdqcXNCbVAyS2hBdHBVWmhaelIyTnByZWNGMnhKOHU2Rldvcl9FU3FWNWVmM1lyajBWRXZGd21sektVQXk5TlVXRmYyVnMxOVp4UXN5VGlXeHdCTkhadjZnQVUyelRBeGo3Y21NcEhkWWc1c2MxNktTN0VkZ2lPbXBRRDhOWkpsYnZiYllxT1FYU2FhcjRITks0RnRFektENmfSAbMBQVVfeXFMTTdqeldpLTNBWmhZMGY3RUlpSmJTaFc5TEZHZFUtNmwtWnlvQ0c4YWlPa1FNSGhCRkZob2FmUnc5UzRJMnhBUnNsQ2FFZGhNaGZTQ29BQ0RzVl8yZmpDZUZkeXVKRl91cEZ3Y2wwZldGcm1GY050c3Z3YVgxMUEzX2d2TlphZUxTblJyVTN3QmpwcVJ4UFZKaW5ucFlaR0tFMlJ2TElpNFViV3ktd3NZSDNiUGc?oc=5",
      "fonte": "Vestibular – Brasil Escola",
@@ -44,6 +38,12 @@
      "titulo": "Vestibular UFPR 2027: acompanhe a divulgação do gabarito oficial - Portal PNE",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVTJHMmUyRXBmLVFzRkwxZDN5U3RaYUF2aFAxOGUwYVlydnZXbVNzNFBiVFp2YmU2Q2VBSzB4SmVVcEFqenAxTGNBaDB5NktndGVXUnZDMk5PMzI1XzliaWlURzFmSjhfUmxDcXZSUk5BcF8yTktR?oc=5",
      "fonte": "Portal PNE",
+     "quando": "2026-11-01T04:00-03:00"
+    },
+    {
+     "titulo": "Quando sai o gabarito da UFPR 2027? - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZ05udVppZDlpTnZpVXZUVmp6YlB3SXVZd1Z5ZC01d3Q2T2pVeEJhXzRQcFd3dkdqWXhyWG0xV2diNXpXbXB0SHNZZ2VVdVhkMjdnZ3JjS0NTcEhUR1p4TEtxYnFrTnVfVEZZMnl1NHdUZDJK?oc=5",
+     "fonte": "Quero Bolsa",
      "quando": "2026-11-01T04:00-03:00"
     },
     {
@@ -57,12 +57,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
      "fonte": "Quero Bolsa",
      "quando": "2026-11-03T05:00-03:00"
-    },
-    {
-     "titulo": "UFPR 2027: confira o gabarito preliminar - Blog do Vestibular",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkNBQ1M1RU1DcnAzSUxCLW1uc0V4OTEzLTBZNHJ4NWlETkZhcGdTTjB3M0xwLXQxQnZzZGRndE5UeWFZMlpZdWxkbGN0UTJpSTJPdWhheHp2a2h5QVpjQ0I0aVdpQkpvRDdFUi1IWU1CTy1Wbmltc0JMUDhPa201NG5TaEgwS0lfNjFMRXpuajJmQQ?oc=5",
-     "fonte": "Blog do Vestibular",
-     "quando": "2026-11-03T06:45-03:00"
     },
     {
      "titulo": "Gabarito UFPR 2027: confira as 80 respostas da prova objetiva e as 16 questões de Música; veja o gabarito completo - Portal de Camaquã",
@@ -1377,5 +1371,5 @@
    ]
   }
  },
- "verificado": "2026-11-20T12:35-03:00"
+ "verificado": "2026-11-20T13:34-03:00"
 }
