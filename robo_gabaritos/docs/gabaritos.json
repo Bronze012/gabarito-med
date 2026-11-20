@@ -47,16 +47,16 @@
      "quando": "2026-11-01T04:00-03:00"
     },
     {
-     "titulo": "Gabarito UFPR 2027 é divulgado; saiba como acessar - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-03T05:00-03:00"
-    },
-    {
      "titulo": "Candidatos chegam atrasados, não conseguem entrar, e alegam erro na informação sobre local de prova da UFPR - CBN Curitiba",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFRamM1XzY5ZWFzanBEd2cxelZUc0M4UExZRGRVbDQtMDk0OE5XcjFSOXg1T0dhZmlQZmhwdlFycHJRdmFCUUZRNURTOUpGZUMwZ1JpNzR3NEU4US1yY2FuV3JxV2pRbWttaTV6MGFaZlZ4a080akdHLVVNVUhlZGY4Qi1UZG1jNnJyay14WDVXV1N0UThDZlJVbmFySjFScGxrWElFS1VBXzVMN2IzMno5N1ZzTTNRcjZlRGZ1VUNJOXhzY05UMnNkRUgyUnNEUmV5NVdkMVFQQQ?oc=5",
      "fonte": "CBN Curitiba",
      "quando": "2026-11-01T04:00-03:00"
+    },
+    {
+     "titulo": "Gabarito UFPR 2027 é divulgado; saiba como acessar - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
+     "fonte": "Quero Bolsa",
+     "quando": "2026-11-03T05:00-03:00"
     },
     {
      "titulo": "UFPR 2027: confira o gabarito preliminar - Blog do Vestibular",
@@ -131,7 +131,6 @@
      "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2026_GB_impresso_D2_CD12.pdf"
     }
    ],
-   "log": [],
    "versoes": {
     "Dia 1 · Amarelo (caderno 2)": {
      "dia": 1,
@@ -1264,6 +1263,13 @@
    },
    "status": "oficial",
    "nome": "ENEM 2026",
+   "desde": {
+    "oficial": "2026-11-18T10:53-03:00"
+   },
+   "log": [
+    "gabaritos do Inep ainda não publicados",
+    "fonte indisponível agora; mantido o último gabarito"
+   ],
    "noticias": [
     {
      "titulo": "Gabarito prova verde Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
@@ -1326,10 +1332,10 @@
      "quando": "2026-11-15T16:48-03:00"
     },
     {
-     "titulo": "O gabarito do Enem 2026 já foi divulgado? Entenda - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55aWo5WXVsUjJuZHlkSTR3MzluM0lPWlNHSkh0VDE4dEVOT0JwdFhWM0QwWUVhUDNNWmlHaml5X3M1TEF6eUZWYUctYWdJdVIyXzNzUnhxMFo4eFRGSFAtUnNqbjZWSTBJV0FSVjFWMEZfYkUwRFN4eFkyQ1d5V0E?oc=5",
+     "titulo": "Gabarito extraoficial do Enem 2026 disponível; acompanhe a correção - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLVIyZklPYkRIU01XLXVVOC1MLWluRHduMGZEMFdCeDNVeXgwMVZqTGxBRXc2TzhpTnhuelJlemhSNGVwT3VYOGJ2T0Z4OWtlTjRmODhidHFqRWtrUnppVXNKT2VvaXRmNDgxbTNvRHc0V2txX3Vv?oc=5",
      "fonte": "Quero Bolsa",
-     "quando": "2026-11-19T03:33-03:00"
+     "quando": "2026-11-16T05:00-03:00"
     },
     {
      "titulo": "Gabarito extraoficial Enem 2026: assista à correção do 2° dia de provas - O GLOBO",
@@ -1337,10 +1343,7 @@
      "fonte": "O GLOBO",
      "quando": "2026-11-15T03:30-03:00"
     }
-   ],
-   "desde": {
-    "oficial": "2026-11-18T10:53-03:00"
-   }
+   ]
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -1371,5 +1374,5 @@
    ]
   }
  },
- "verificado": "2026-11-19T22:51-03:00"
+ "verificado": "2026-11-19T23:39-03:00"
 }
