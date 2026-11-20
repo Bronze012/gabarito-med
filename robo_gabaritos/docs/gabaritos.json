@@ -131,7 +131,6 @@
      "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2026_GB_impresso_D2_CD12.pdf"
     }
    ],
-   "log": [],
    "versoes": {
     "Dia 1 · Amarelo (caderno 2)": {
      "dia": 1,
@@ -1264,6 +1263,13 @@
    },
    "status": "oficial",
    "nome": "ENEM 2026",
+   "desde": {
+    "oficial": "2026-11-18T10:53-03:00"
+   },
+   "log": [
+    "gabaritos do Inep ainda não publicados",
+    "fonte indisponível agora; mantido o último gabarito"
+   ],
    "noticias": [
     {
      "titulo": "Gabarito prova verde Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
@@ -1337,10 +1343,7 @@
      "fonte": "Guia do Estudante",
      "quando": "2026-11-15T16:06-03:00"
     }
-   ],
-   "desde": {
-    "oficial": "2026-11-18T10:53-03:00"
-   }
+   ]
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -1371,5 +1374,5 @@
    ]
   }
  },
- "verificado": "2026-11-20T07:35-03:00"
+ "verificado": "2026-11-20T08:32-03:00"
 }
