@@ -47,16 +47,16 @@
      "quando": "2026-11-01T04:00-03:00"
     },
     {
-     "titulo": "Candidatos chegam atrasados, não conseguem entrar, e alegam erro na informação sobre local de prova da UFPR - CBN Curitiba",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFRamM1XzY5ZWFzanBEd2cxelZUc0M4UExZRGRVbDQtMDk0OE5XcjFSOXg1T0dhZmlQZmhwdlFycHJRdmFCUUZRNURTOUpGZUMwZ1JpNzR3NEU4US1yY2FuV3JxV2pRbWttaTV6MGFaZlZ4a080akdHLVVNVUhlZGY4Qi1UZG1jNnJyay14WDVXV1N0UThDZlJVbmFySjFScGxrWElFS1VBXzVMN2IzMno5N1ZzTTNRcjZlRGZ1VUNJOXhzY05UMnNkRUgyUnNEUmV5NVdkMVFQQQ?oc=5",
-     "fonte": "CBN Curitiba",
-     "quando": "2026-11-01T04:00-03:00"
-    },
-    {
      "titulo": "Gabarito UFPR 2027 é divulgado; saiba como acessar - Quero Bolsa",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
      "fonte": "Quero Bolsa",
      "quando": "2026-11-03T05:00-03:00"
+    },
+    {
+     "titulo": "Candidatos chegam atrasados, não conseguem entrar, e alegam erro na informação sobre local de prova da UFPR - CBN Curitiba",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFRamM1XzY5ZWFzanBEd2cxelZUc0M4UExZRGRVbDQtMDk0OE5XcjFSOXg1T0dhZmlQZmhwdlFycHJRdmFCUUZRNURTOUpGZUMwZ1JpNzR3NEU4US1yY2FuV3JxV2pRbWttaTV6MGFaZlZ4a080akdHLVVNVUhlZGY4Qi1UZG1jNnJyay14WDVXV1N0UThDZlJVbmFySjFScGxrWElFS1VBXzVMN2IzMno5N1ZzTTNRcjZlRGZ1VUNJOXhzY05UMnNkRUgyUnNEUmV5NVdkMVFQQQ?oc=5",
+     "fonte": "CBN Curitiba",
+     "quando": "2026-11-01T04:00-03:00"
     },
     {
      "titulo": "Gabarito UFPR 2027: confira as 80 respostas da prova objetiva e as 16 questões de Música; veja o gabarito completo - Portal de Camaquã",
@@ -1290,12 +1290,6 @@
      "quando": "2026-11-15T18:00-03:00"
     },
     {
-     "titulo": "Gabarito prova azul Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTJqelZCUEhhcy1vb0c4WDZMWTVyTmg2c1VyRDFQNVQxekJqalNkNGZtMGhCby1CUFVTOVVteWxQZGhXMHo3RDVIX2ZOdW51aFFDZ0MxX0tnMEUyYzVCNWJLRFQwQlZWcHFxVy1aT0xaWTZTS0p3WkFWcFdiTWRscFdjbjNOd3hQQ29ITFpOUzhKaS1mc3I0bXpDRUZUb192cVdSZ1I0S3NMYjFOajFQdkUwZzFuV1RGTmtMb3Bia2hjLU5iY1BHRGNaNjFlUVVIclFURVpIQdIB5gFBVV95cUxQeFlDQzB0MDBrWll2alFndFVWZFF0dk1lX2tXbFRBOWt2Ym5fX2M5WWFsb0tOTGNybjJmWjhDd05wYjhtbjYyR1FuVXVNQ0VFa1R2bzZSb19sbGFUMUJxcTJCM1RXVmVnLVJtVER2WHRPQWx2azRYVzVkV2FKckxOSDQ5ZTJ5MmZhTVViWS10SWZ5RUVrbk1sVGs0WGtwZXBFOTlMNkVvN0lVR2NUV1l4NWF2czdibzNfcnhoZy1tSnJVaHNIbTdyOERlaWN4OGdHdS1vNERfbEs5WkJNN01TTUtBTjVtZw?oc=5",
-     "fonte": "G1",
-     "quando": "2026-11-15T18:52-03:00"
-    },
-    {
      "titulo": "Gabarito Enem 2026 1º dia prova verde extraoficial e correção das provas - G1",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLUVHTnI0dGZqb25LTEpqTXVzYlRLZ1FwcGlwSUlJUGQ1Qk9aRTBDVjZmVjc4REJRUmc4ejNGeFJhUnVWSUFIUzc5Qk8yQnlOU0t2U3d0NkEyaEcxYlZLblFBY2tFWlhMc1pYWUtLaldXNGNWV0JkWXVGNnRPbVE5WW5BTjYyVlJlOEoxbWFCNktGUGxvd1poVV8wTWVDckpoZXJxTmxnSVpwMUI0WDFrajl6dDllUVRvUnRKbG9kSG5KSTFlRkttVFFMYlZTLUljTjRF0gHiAUFVX3lxTFAtWnJYM0d6QnM3ZmhjSU5yMDNkZW1KOHlPZTBiWi1kUHdERGdCQzkxLUZNVS1oTkR2T09rbkFzdmNEdmkzRFhxRTQ1ZDQ3N0RGUDEwMldjelRsNlpRX3JuRHhjLUpxZ2F1ZGRLckpmb09LMG5hNDZ5bXVSRmdScHNMU0RlZm9zMEtNOXlnSENUcVpwckJoTUlibmQ0elJKZXJKMm52bGR2T1BRNEQxN1ktQWdmb3oyTEVaWDg0eWhESDJ2UGhHdXQ1dG9JVlZpR3BHandxRlBEa0ozSXoxS2gyOXc?oc=5",
      "fonte": "G1",
@@ -1306,6 +1300,12 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
      "fonte": "G1",
      "quando": "2026-11-08T05:00-03:00"
+    },
+    {
+     "titulo": "Gabarito prova azul Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTJqelZCUEhhcy1vb0c4WDZMWTVyTmg2c1VyRDFQNVQxekJqalNkNGZtMGhCby1CUFVTOVVteWxQZGhXMHo3RDVIX2ZOdW51aFFDZ0MxX0tnMEUyYzVCNWJLRFQwQlZWcHFxVy1aT0xaWTZTS0p3WkFWcFdiTWRscFdjbjNOd3hQQ29ITFpOUzhKaS1mc3I0bXpDRUZUb192cVdSZ1I0S3NMYjFOajFQdkUwZzFuV1RGTmtMb3Bia2hjLU5iY1BHRGNaNjFlUVVIclFURVpIQdIB5gFBVV95cUxQeFlDQzB0MDBrWll2alFndFVWZFF0dk1lX2tXbFRBOWt2Ym5fX2M5WWFsb0tOTGNybjJmWjhDd05wYjhtbjYyR1FuVXVNQ0VFa1R2bzZSb19sbGFUMUJxcTJCM1RXVmVnLVJtVER2WHRPQWx2azRYVzVkV2FKckxOSDQ5ZTJ5MmZhTVViWS10SWZ5RUVrbk1sVGs0WGtwZXBFOTlMNkVvN0lVR2NUV1l4NWF2czdibzNfcnhoZy1tSnJVaHNIbTdyOERlaWN4OGdHdS1vNERfbEs5WkJNN01TTUtBTjVtZw?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-15T18:52-03:00"
     },
     {
      "titulo": "Gabarito extraoficial do 2º dia do Enem 2026 disponível; acompanhe a correção - Quero Bolsa",
@@ -1371,5 +1371,5 @@
    ]
   }
  },
- "verificado": "2026-11-21T11:16-03:00"
+ "verificado": "2026-11-21T13:30-03:00"
 }
