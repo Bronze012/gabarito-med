@@ -10,6 +10,21 @@
    ],
    "links": [
     {
+     "url": "https://sistemas.nc.ufpr.br/recursoPS/login",
+     "titulo": "Consulta ao gabarito definitivo do modelo de prova realizado e resposta aos recursos interpostos",
+     "nome": "NC-UFPR"
+    },
+    {
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/definitivo/geral.pdf",
+     "titulo": "",
+     "nome": "NC-UFPR"
+    },
+    {
+     "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/definitivo/010.pdf",
+     "titulo": "",
+     "nome": "NC-UFPR"
+    },
+    {
      "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/010.pdf",
      "titulo": "",
      "nome": "NC-UFPR"
@@ -1372,5 +1387,5 @@
    ]
   }
  },
- "verificado": "2026-11-23T17:27-03:00"
+ "verificado": "2026-11-23T18:16-03:00"
 }
