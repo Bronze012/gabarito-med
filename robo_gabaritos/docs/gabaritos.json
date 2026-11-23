@@ -18,11 +18,6 @@
      "url": "https://servicos.nc.ufpr.br/documentos/ps2027/provas/provisorio/geral.pdf",
      "titulo": "",
      "nome": "NC-UFPR"
-    },
-    {
-     "url": "https://sistemas.nc.ufpr.br/recursoPS/login",
-     "titulo": "Consulta ao gabarito provisório do modelo de prova realizado e interposição de recursos Serão aceitos recursos contra o gabarito provisório das 12h00min de 03/1",
-     "nome": "NC-UFPR"
     }
    ],
    "status": "aguardando",
@@ -1284,14 +1279,14 @@
      "quando": "2026-11-10T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
+     "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
      "fonte": "G1",
      "quando": "2026-11-08T05:00-03:00"
     },
     {
-     "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTR2cDBLRi1BbFJFSGZkUVhwUUs1N2dtUVl3NGNKcmVUWWtvYTNfaXZuaU5hSjl0YTVGUHlNNmp1YVJBY1BHYWtSenlIYThtREd6WkdXMmhCZmZWbkIzaWVOS3RvVjAxb0RWZl9tSzREejJsTVMyOXdxWURvTHNjOHIzckN5Vlc3eWpEVGpaNFBQUXE2UWNvNG8tNm1Hcko1YjVKOWRCa2xXVXNIWENwY2haVW5MTjgzOVQxTVpFeHVxcnliYXdtUTNpY9IB2gFBVV95cUxPMGFLWHFOanFyOTdyUEtab2hzUll4ZVRxeThBMzhveHVmRUVIeUpYUnJOa2gyZzJFQ05YbjBUN2tMdmFuR0ZtaVl3SThtWTFCRVl3WVlYc3lVdFNUZDVaYTg3ZEtrNFFaZC1scHhvWFMxUng2d19KU0RVZDA4M1lSc0N3S0ZxR2FvVzNkMlV5N0pYOG1qTkhlSzNHdG9rTUtWTV9obVJWdXdvSzN2VFlnNFd4RFJxY18zRmhNQnBDbnJ5UUktZ3RGWGZ4Z0d3Q1MwREZfZlVrdXJnQQ?oc=5",
+     "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnZIRTVKVVlWeGluM19TRW0zcmhRcy0wQjc5TVBuY0FjZS1ZWVZLMXdWYkVhalZYaDNhdzFXdHhHTjgtR1g0MWFOZTBybWpYRFdXUG5FbEg3Q1pmWTVxTDZNVXI3Ulc1RjhQQS02UW0zM09vQkVLX1g5VjdxY0Mxbk1nazI2RXNjSTNVUmhIUWJ2VnFBdUhqX3FXUWljd0otbUhtWjFILXpXZDc0aTZYUEZSYzA3LWE5SWxSd3JkazNObDZtTzB2THpibkdEbHFhWXfSAeABQVVfeXFMTmk0d3dBamgtcXRxRnl4Q1M3X3ZmS0Nndkh6bmNIa2t5TzR3dWhHSjRCYUtWeDlxY3FjVEVORTJTZjR4N09ONndJcGRiNlIyVzFjZFlERkFrbS04aGd4amItYThPUXRPZUFrTDBad3Z1S21fR3BUYVdac29TR0k5TzZWNi1DWnpWVm1PeVpkcGR1WnlZV0REZVhmMzdqZzlfQ1RMSlBLNGxwMHdEOTVEeml1M3ZOZHI0eTVIYzZMaWV5Uzl4RU9ORFFLWUxpQV9KNTZJS0d1Mno1MUVpTmhmdDk?oc=5",
      "fonte": "G1",
      "quando": "2026-11-08T05:00-03:00"
     },
@@ -1320,6 +1315,12 @@
      "quando": "2026-11-08T05:00-03:00"
     },
     {
+     "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTR2cDBLRi1BbFJFSGZkUVhwUUs1N2dtUVl3NGNKcmVUWWtvYTNfaXZuaU5hSjl0YTVGUHlNNmp1YVJBY1BHYWtSenlIYThtREd6WkdXMmhCZmZWbkIzaWVOS3RvVjAxb0RWZl9tSzREejJsTVMyOXdxWURvTHNjOHIzckN5Vlc3eWpEVGpaNFBQUXE2UWNvNG8tNm1Hcko1YjVKOWRCa2xXVXNIWENwY2haVW5MTjgzOVQxTVpFeHVxcnliYXdtUTNpY9IB2gFBVV95cUxPMGFLWHFOanFyOTdyUEtab2hzUll4ZVRxeThBMzhveHVmRUVIeUpYUnJOa2gyZzJFQ05YbjBUN2tMdmFuR0ZtaVl3SThtWTFCRVl3WVlYc3lVdFNUZDVaYTg3ZEtrNFFaZC1scHhvWFMxUng2d19KU0RVZDA4M1lSc0N3S0ZxR2FvVzNkMlV5N0pYOG1qTkhlSzNHdG9rTUtWTV9obVJWdXdvSzN2VFlnNFd4RFJxY18zRmhNQnBDbnJ5UUktZ3RGWGZ4Z0d3Q1MwREZfZlVrdXJnQQ?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T05:00-03:00"
+    },
+    {
      "titulo": "Que horas sai o gabarito do Enem 2026? Veja quando consultar as respostas - Quero Bolsa",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5la0g3VGk5RlEtYTFmZDFvYUtuWHZzd1kyOG1tM19mZUJwU1BXeEZxbTBSNWNIckhObUhSU0FqbFZjU0pZd3B1VTFjV2RnQkZCV29IUjBVTE05LUcyNXhWOURRSWNOQmFUZXk4N1YxeUtzTVNX?oc=5",
      "fonte": "Quero Bolsa",
@@ -1335,12 +1336,6 @@
      "titulo": "Gabarito extraoficial Enem 2026: assista à correção do 2° dia de provas - O GLOBO",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeElpdThrMHZJNUdsNUlvZ0hYMXZtYnZKVjJfOTlYdTFGVjVpSllZajNHS19TcGV3Y3YyTU9PWi02N3VGRjdlUEdHSmJzY20wdGZTTWJzQmFpVUhTMEdQa0dGcTFGNzVNYkpCWmZ6LU1lek9tb1hWZXR0YnhBYTZGZFRoaUlGUEVWTXRlYUNyT191SC1vaUZZMlVGVElIT0JXTXlvS0ZuWUxBak1kTElEQllhTTNGR3d6SjlkMTYta1JuOEJHWnBZa3FwY2lDd0hHcDE1OFljeGxCNTV2SU9RWmdIWWVHcGMt0gH3AUFVX3lxTE5XUWtGOWt5aUF4SEFzSFN0anVweG41OXVNQ1RqaERPbjFDX3pybG5RUURITE5RRlIzT2ltRWs5R25vUDdBUjJUQlozSWRGSWRJeXNjRkptYWJsbnNBUXZFRDZldGhSTTdFLTZQRXJtQXYzLVd3RjUtSW1WYmZnVlNxX2VnaFlOUGRsQTZfNnR2T0JSN3ZjaXpHaTVjekcyVU4wR3EtYVNIYjBHTXluOGtwYVRscGJpV0xWVTBiN1g2aUhGTEtfNkNDRmxiM3UtUGZPdlJVdnFnaDZGNWRSYWNfZnM1U0Z6SjRsWFA4cUNnUnpZaUlaTnc?oc=5",
      "fonte": "O GLOBO",
-     "quando": "2026-11-15T05:00-03:00"
-    },
-    {
-     "titulo": "Gabarito Enem 2026: correção extraoficial do primeiro dia - Guia do Estudante",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
-     "fonte": "Guia do Estudante",
      "quando": "2026-11-15T05:00-03:00"
     }
    ],
@@ -1377,5 +1372,5 @@
    ]
   }
  },
- "verificado": "2026-11-23T16:41-03:00"
+ "verificado": "2026-11-23T17:27-03:00"
 }
