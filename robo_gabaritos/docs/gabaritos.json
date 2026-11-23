@@ -131,6 +131,7 @@
      "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2026_GB_impresso_D2_CD12.pdf"
     }
    ],
+   "log": [],
    "versoes": {
     "Dia 1 · Amarelo (caderno 2)": {
      "dia": 1,
@@ -1263,13 +1264,6 @@
    },
    "status": "oficial",
    "nome": "ENEM 2026",
-   "desde": {
-    "oficial": "2026-11-18T10:53-03:00"
-   },
-   "log": [
-    "gabaritos do Inep ainda não publicados",
-    "fonte indisponível agora; mantido o último gabarito"
-   ],
    "noticias": [
     {
      "titulo": "Gabarito Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
@@ -1332,18 +1326,21 @@
      "quando": "2026-11-15T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026 do 2º dia: prova verde - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mdktFT1ppY25ZUEJGTnRCQ2hHUWdlRkNXREU4V19Dd3BRcl9tYjVSUVhneTNMTzhpZ1JsVC1zODJIaGFuYXgyYkRZZ0wxZjg4a2ZMdlVsVUNveFlIWGZjQklxS3p4bVVJYWpnRXNMQ1BMWDlTVGxEbXVuRQ?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-17T05:00-03:00"
-    },
-    {
      "titulo": "Gabarito extraoficial do Enem 2026 disponível; acompanhe a correção - Quero Bolsa",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLVIyZklPYkRIU01XLXVVOC1MLWluRHduMGZEMFdCeDNVeXgwMVZqTGxBRXc2TzhpTnhuelJlemhSNGVwT3VYOGJ2T0Z4OWtlTjRmODhidHFqRWtrUnppVXNKT2VvaXRmNDgxbTNvRHc0V2txX3Vv?oc=5",
      "fonte": "Quero Bolsa",
      "quando": "2026-11-16T05:00-03:00"
+    },
+    {
+     "titulo": "Gabarito Enem 2026 do 2º dia: prova verde - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mdktFT1ppY25ZUEJGTnRCQ2hHUWdlRkNXREU4V19Dd3BRcl9tYjVSUVhneTNMTzhpZ1JsVC1zODJIaGFuYXgyYkRZZ0wxZjg4a2ZMdlVsVUNveFlIWGZjQklxS3p4bVVJYWpnRXNMQ1BMWDlTVGxEbXVuRQ?oc=5",
+     "fonte": "Quero Bolsa",
+     "quando": "2026-11-17T05:00-03:00"
     }
-   ]
+   ],
+   "desde": {
+    "oficial": "2026-11-18T10:53-03:00"
+   }
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -1374,5 +1371,5 @@
    ]
   }
  },
- "verificado": "2026-11-23T13:44-03:00"
+ "verificado": "2026-11-23T14:38-03:00"
 }
