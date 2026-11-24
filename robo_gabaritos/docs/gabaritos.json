@@ -39,21 +39,15 @@
    "nome": "UFPR 2027",
    "noticias": [
     {
-     "titulo": "Quando sai o gabarito da UFPR 2027? - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZ05udVppZDlpTnZpVXZUVmp6YlB3SXVZd1Z5ZC01d3Q2T2pVeEJhXzRQcFd3dkdqWXhyWG0xV2diNXpXbXB0SHNZZ2VVdVhkMjdnZ3JjS0NTcEhUR1p4TEtxYnFrTnVfVEZZMnl1NHdUZDJK?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-01T04:00-03:00"
-    },
-    {
      "titulo": "UFPR divulga gabarito do Vestibular 2027: veja respostas da prova - UOL",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlhEMFFneFpneEhDakdqcXNCbVAyS2hBdHBVWmhaelIyTnByZWNGMnhKOHU2Rldvcl9FU3FWNWVmM1lyajBWRXZGd21sektVQXk5TlVXRmYyVnMxOVp4UXN5VGlXeHdCTkhadjZnQVUyelRBeGo3Y21NcEhkWWc1c2MxNktTN0VkZ2lPbXBRRDhOWkpsYnZiYllxT1FYU2FhcjRITks0RnRFektENmfSAbMBQVVfeXFMTTdqeldpLTNBWmhZMGY3RUlpSmJTaFc5TEZHZFUtNmwtWnlvQ0c4YWlPa1FNSGhCRkZob2FmUnc5UzRJMnhBUnNsQ2FFZGhNaGZTQ29BQ0RzVl8yZmpDZUZkeXVKRl91cEZ3Y2wwZldGcm1GY050c3Z3YVgxMUEzX2d2TlphZUxTblJyVTN3QmpwcVJ4UFZKaW5ucFlaR0tFMlJ2TElpNFViV3ktd3NZSDNiUGc?oc=5",
      "fonte": "UOL",
      "quando": "2026-11-03T05:00-03:00"
     },
     {
-     "titulo": "Candidatos chegam atrasados, não conseguem entrar, e alegam erro na informação sobre local de prova da UFPR - CBN Curitiba",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFRamM1XzY5ZWFzanBEd2cxelZUc0M4UExZRGRVbDQtMDk0OE5XcjFSOXg1T0dhZmlQZmhwdlFycHJRdmFCUUZRNURTOUpGZUMwZ1JpNzR3NEU4US1yY2FuV3JxV2pRbWttaTV6MGFaZlZ4a080akdHLVVNVUhlZGY4Qi1UZG1jNnJyay14WDVXV1N0UThDZlJVbmFySjFScGxrWElFS1VBXzVMN2IzMno5N1ZzTTNRcjZlRGZ1VUNJOXhzY05UMnNkRUgyUnNEUmV5NVdkMVFQQQ?oc=5",
-     "fonte": "CBN Curitiba",
+     "titulo": "Quando sai o gabarito da UFPR 2027? - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZ05udVppZDlpTnZpVXZUVmp6YlB3SXVZd1Z5ZC01d3Q2T2pVeEJhXzRQcFd3dkdqWXhyWG0xV2diNXpXbXB0SHNZZ2VVdVhkMjdnZ3JjS0NTcEhUR1p4TEtxYnFrTnVfVEZZMnl1NHdUZDJK?oc=5",
+     "fonte": "Quero Bolsa",
      "quando": "2026-11-01T04:00-03:00"
     },
     {
@@ -67,6 +61,12 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
      "fonte": "Quero Bolsa",
      "quando": "2026-11-03T05:00-03:00"
+    },
+    {
+     "titulo": "Candidatos chegam atrasados, não conseguem entrar, e alegam erro na informação sobre local de prova da UFPR - CBN Curitiba",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFRamM1XzY5ZWFzanBEd2cxelZUc0M4UExZRGRVbDQtMDk0OE5XcjFSOXg1T0dhZmlQZmhwdlFycHJRdmFCUUZRNURTOUpGZUMwZ1JpNzR3NEU4US1yY2FuV3JxV2pRbWttaTV6MGFaZlZ4a080akdHLVVNVUhlZGY4Qi1UZG1jNnJyay14WDVXV1N0UThDZlJVbmFySjFScGxrWElFS1VBXzVMN2IzMno5N1ZzTTNRcjZlRGZ1VUNJOXhzY05UMnNkRUgyUnNEUmV5NVdkMVFQQQ?oc=5",
+     "fonte": "CBN Curitiba",
+     "quando": "2026-11-01T04:00-03:00"
     },
     {
      "titulo": "UFPR 2027: confira o gabarito preliminar - Blog do Vestibular",
@@ -1294,8 +1294,8 @@
      "quando": "2026-11-10T05:00-03:00"
     },
     {
-     "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
+     "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTR2cDBLRi1BbFJFSGZkUVhwUUs1N2dtUVl3NGNKcmVUWWtvYTNfaXZuaU5hSjl0YTVGUHlNNmp1YVJBY1BHYWtSenlIYThtREd6WkdXMmhCZmZWbkIzaWVOS3RvVjAxb0RWZl9tSzREejJsTVMyOXdxWURvTHNjOHIzckN5Vlc3eWpEVGpaNFBQUXE2UWNvNG8tNm1Hcko1YjVKOWRCa2xXVXNIWENwY2haVW5MTjgzOVQxTVpFeHVxcnliYXdtUTNpY9IB2gFBVV95cUxPMGFLWHFOanFyOTdyUEtab2hzUll4ZVRxeThBMzhveHVmRUVIeUpYUnJOa2gyZzJFQ05YbjBUN2tMdmFuR0ZtaVl3SThtWTFCRVl3WVlYc3lVdFNUZDVaYTg3ZEtrNFFaZC1scHhvWFMxUng2d19KU0RVZDA4M1lSc0N3S0ZxR2FvVzNkMlV5N0pYOG1qTkhlSzNHdG9rTUtWTV9obVJWdXdvSzN2VFlnNFd4RFJxY18zRmhNQnBDbnJ5UUktZ3RGWGZ4Z0d3Q1MwREZfZlVrdXJnQQ?oc=5",
      "fonte": "G1",
      "quando": "2026-11-08T05:00-03:00"
     },
@@ -1316,12 +1316,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaGQ2WEZkS2lNdE9DLV9GY283aVZfZi1PTU8wWmFsemVJMGZVU2ZlNVNVbzcwb2Vra0ZsTHVZcUdHYkNMSjFCaThfdm1ySHVqQ2U5OFdFOFFtQ1ZBakRqdG1TNDRQMWxPM2tGdEp2ekZtQ0VHaUNwNXU3YXQxT2l5Y1pxeF9XLWpRTmktVFZaWE9zYnhCYWlOaWtPSUR2aEhrbmVlMHhsTTJoLUp4ak5BOTBqQmMzNTJBVzk4M293T21IQ0gyRHNGbzhCV1c3TE16bmxVTDZTcUs?oc=5",
      "fonte": "G1",
      "quando": "2026-11-15T05:00-03:00"
-    },
-    {
-     "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTR2cDBLRi1BbFJFSGZkUVhwUUs1N2dtUVl3NGNKcmVUWWtvYTNfaXZuaU5hSjl0YTVGUHlNNmp1YVJBY1BHYWtSenlIYThtREd6WkdXMmhCZmZWbkIzaWVOS3RvVjAxb0RWZl9tSzREejJsTVMyOXdxWURvTHNjOHIzckN5Vlc3eWpEVGpaNFBQUXE2UWNvNG8tNm1Hcko1YjVKOWRCa2xXVXNIWENwY2haVW5MTjgzOVQxTVpFeHVxcnliYXdtUTNpY9IB2gFBVV95cUxPMGFLWHFOanFyOTdyUEtab2hzUll4ZVRxeThBMzhveHVmRUVIeUpYUnJOa2gyZzJFQ05YbjBUN2tMdmFuR0ZtaVl3SThtWTFCRVl3WVlYc3lVdFNUZDVaYTg3ZEtrNFFaZC1scHhvWFMxUng2d19KU0RVZDA4M1lSc0N3S0ZxR2FvVzNkMlV5N0pYOG1qTkhlSzNHdG9rTUtWTV9obVJWdXdvSzN2VFlnNFd4RFJxY18zRmhNQnBDbnJ5UUktZ3RGWGZ4Z0d3Q1MwREZfZlVrdXJnQQ?oc=5",
-     "fonte": "G1",
-     "quando": "2026-11-08T05:00-03:00"
     },
     {
      "titulo": "Gabarito extraoficial Enem 2026: assista à correção do 2° dia de provas - O GLOBO",
@@ -1352,6 +1346,12 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdSSXFJX0ZXaXE5MXY5MmVSMEp4RElIVHk1RWs0SDBRcEJ1RTlVaXJueGFDSHpwai03YTVMOWIzTGJibEUtaVRhaXZ6U2JKNEhVYXppa09vRHhSUFkzWDlCTzRIQ2dWVE92TEFBS3lzX2VHUlFBOWJvT256YXBSV2FlMlNMWEdqbVB2bGFLb2lIb3YwWl9pU2ZaNXdBTjA?oc=5",
      "fonte": "Guia do Estudante",
      "quando": "2026-11-15T16:06-03:00"
+    },
+    {
+     "titulo": "Como ver o gabarito do Enem 2026? - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4MERfaVdDSWM2WHp6QmNxcUZYcEIyYndEeWd6WWI0ZU9hR2E0bDloamhPRzFWaUR6aXdQeFVFaGNIdVdNdXdHTHhwYWZQbU5ueFV3V0Y4Z3h6SWg5cThWZGpoZ1RZcW0wUmx0akNEX0pHT0VD?oc=5",
+     "fonte": "Quero Bolsa",
+     "quando": "2026-11-19T05:00-03:00"
     }
    ],
    "desde": {
@@ -1387,5 +1387,5 @@
    ]
   }
  },
- "verificado": "2026-11-24T17:19-03:00"
+ "verificado": "2026-11-24T18:19-03:00"
 }
