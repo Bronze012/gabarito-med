@@ -39,12 +39,6 @@
    "nome": "UFPR 2027",
    "noticias": [
     {
-     "titulo": "Gabarito UFPR 2027 é divulgado; saiba como acessar - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-03T05:00-03:00"
-    },
-    {
      "titulo": "UFPR divulga gabarito do Vestibular 2027: veja respostas da prova - UOL",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlhEMFFneFpneEhDakdqcXNCbVAyS2hBdHBVWmhaelIyTnByZWNGMnhKOHU2Rldvcl9FU3FWNWVmM1lyajBWRXZGd21sektVQXk5TlVXRmYyVnMxOVp4UXN5VGlXeHdCTkhadjZnQVUyelRBeGo3Y21NcEhkWWc1c2MxNktTN0VkZ2lPbXBRRDhOWkpsYnZiYllxT1FYU2FhcjRITks0RnRFektENmfSAbMBQVVfeXFMTTdqeldpLTNBWmhZMGY3RUlpSmJTaFc5TEZHZFUtNmwtWnlvQ0c4YWlPa1FNSGhCRkZob2FmUnc5UzRJMnhBUnNsQ2FFZGhNaGZTQ29BQ0RzVl8yZmpDZUZkeXVKRl91cEZ3Y2wwZldGcm1GY050c3Z3YVgxMUEzX2d2TlphZUxTblJyVTN3QmpwcVJ4UFZKaW5ucFlaR0tFMlJ2TElpNFViV3ktd3NZSDNiUGc?oc=5",
      "fonte": "UOL",
@@ -67,6 +61,12 @@
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVTJHMmUyRXBmLVFzRkwxZDN5U3RaYUF2aFAxOGUwYVlydnZXbVNzNFBiVFp2YmU2Q2VBSzB4SmVVcEFqenAxTGNBaDB5NktndGVXUnZDMk5PMzI1XzliaWlURzFmSjhfUmxDcXZSUk5BcF8yTktR?oc=5",
      "fonte": "Portal PNE",
      "quando": "2026-11-01T04:00-03:00"
+    },
+    {
+     "titulo": "Gabarito UFPR 2027 é divulgado; saiba como acessar - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUJhWkFxRjVCVE1na1RHMWtERXRTSDBKaWQ0SlNwa1pUd1BTc3g3T3l6WGVLcDhMRGN2eFlhZkZmRUVxNzYwOHR6NEJxT1VLdkNHN0VPUjdxUktPSlFtNUNvUmVDdFZiQ216OUtxamhvUnd0dTJxSUEtLXFEaWt0bnZyeHJxR2RPNkhZ?oc=5",
+     "fonte": "Quero Bolsa",
+     "quando": "2026-11-03T05:00-03:00"
     },
     {
      "titulo": "UFPR 2027: confira o gabarito preliminar - Blog do Vestibular",
@@ -1294,12 +1294,6 @@
      "quando": "2026-11-10T05:00-03:00"
     },
     {
-     "titulo": "Gabarito e correção do Enem: g1 mostra respostas do 2º dia do Enem - G1",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYU5hcW1jbVZhYWF3alhzTkxQS3YxT2hxQllXZEpuWVlSRXhKSmFzU3NoY0hadjh0Zkp6bmFEcE5yZHZSVDF3MkNlMnBOMWtJR3lsYjNyYUJGb09JOXItR2FXS3VqTENiNDR0Y0V2R014R3pNRDBLSW1mNVdLR2MwUDNKTTJmblpKSTJpeGxSMlVuUDJMZ2ljVHFLVi1kbGxtYjV1a012emg3eV9zNzE0QXNDdGJKYUU?oc=5",
-     "fonte": "G1",
-     "quando": "2026-11-15T05:00-03:00"
-    },
-    {
      "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas - G1",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3ZQaGFPUWpHd2JodElzbU9Rc2YwNXlFOHBBeEVFRWg0aVhpbHdTNDRwa1plWW1sNlIzdi0zU051VFo0RlU5MG5UWmxjVEhkUWhGbHdnS2lnazdwdlZfenVoYndCZ2hVSnJKT3RmakZKa1lPTlRvbGFoZHloWWoyZGFkb1RpblBuVUI4d2EzWWFvb2s5NWFrcTdMbkhCZE9JM0JidUl3dmlFTUpndTh0M3lxV09NWXBFRC1PczJHcndpU3I3cFotOGY3aHTSAdsBQVVfeXFMUDk2cGloY3g3bUltYS1PdGJuejg0SEptWDJCZHJ1NGVvMHNjVDBHb0EtYVRDaVJuTlNOYVNyTjRNYzgzbll3TG1vdy1KUXZmbzA2clY1eGZJb3h6eVdYcExjMkJRaDdhWUxWMjVEdXI1d3dKMWJRNzEtbzlHUEVkdldUUDgyQ2V3VG5BNjZ2U2w2Mk5VcENXbDg0R3Q4a0VGRW1MampFdUN6WWxRVTlZaGtYU0E0WHhQanR4b2VrODVGclBrSmoydW93SllYeEt0N1RNSlpVVjRoUm4w?oc=5",
      "fonte": "G1",
@@ -1352,6 +1346,12 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
      "fonte": "Guia do Estudante",
      "quando": "2026-11-15T05:00-03:00"
+    },
+    {
+     "titulo": "Gabarito extraoficial do Enem 2026 disponível; acompanhe a correção - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLVIyZklPYkRIU01XLXVVOC1MLWluRHduMGZEMFdCeDNVeXgwMVZqTGxBRXc2TzhpTnhuelJlemhSNGVwT3VYOGJ2T0Z4OWtlTjRmODhidHFqRWtrUnppVXNKT2VvaXRmNDgxbTNvRHc0V2txX3Vv?oc=5",
+     "fonte": "Quero Bolsa",
+     "quando": "2026-11-16T05:00-03:00"
     }
    ],
    "desde": {
@@ -1387,5 +1387,5 @@
    ]
   }
  },
- "verificado": "2026-11-24T15:15-03:00"
+ "verificado": "2026-11-24T16:26-03:00"
 }
