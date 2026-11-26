@@ -141,7 +141,6 @@
      "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2026_GB_impresso_D2_CD12.pdf"
     }
    ],
-   "log": [],
    "versoes": {
     "Dia 1 · Amarelo (caderno 2)": {
      "dia": 1,
@@ -1274,6 +1273,13 @@
    },
    "status": "oficial",
    "nome": "ENEM 2026",
+   "desde": {
+    "oficial": "2026-11-18T10:53-03:00"
+   },
+   "log": [
+    "gabaritos do Inep ainda não publicados",
+    "fonte indisponível agora; mantido o último gabarito"
+   ],
    "noticias": [
     {
      "titulo": "Gabarito Enem 2026 2º dia: veja correção extraoficial e respostas - G1",
@@ -1312,9 +1318,9 @@
      "quando": "2026-11-15T05:00-03:00"
     },
     {
-     "titulo": "Gabarito extraoficial Enem 2026: assista à correção do 2° dia de provas - O GLOBO",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeElpdThrMHZJNUdsNUlvZ0hYMXZtYnZKVjJfOTlYdTFGVjVpSllZajNHS19TcGV3Y3YyTU9PWi02N3VGRjdlUEdHSmJzY20wdGZTTWJzQmFpVUhTMEdQa0dGcTFGNzVNYkpCWmZ6LU1lek9tb1hWZXR0YnhBYTZGZFRoaUlGUEVWTXRlYUNyT191SC1vaUZZMlVGVElIT0JXTXlvS0ZuWUxBak1kTElEQllhTTNGR3d6SjlkMTYta1JuOEJHWnBZa3FwY2lDd0hHcDE1OFljeGxCNTV2SU9RWmdIWWVHcGMt0gH3AUFVX3lxTE5XUWtGOWt5aUF4SEFzSFN0anVweG41OXVNQ1RqaERPbjFDX3pybG5RUURITE5RRlIzT2ltRWs5R25vUDdBUjJUQlozSWRGSWRJeXNjRkptYWJsbnNBUXZFRDZldGhSTTdFLTZQRXJtQXYzLVd3RjUtSW1WYmZnVlNxX2VnaFlOUGRsQTZfNnR2T0JSN3ZjaXpHaTVjekcyVU4wR3EtYVNIYjBHTXluOGtwYVRscGJpV0xWVTBiN1g2aUhGTEtfNkNDRmxiM3UtUGZPdlJVdnFnaDZGNWRSYWNfZnM1U0Z6SjRsWFA4cUNnUnpZaUlaTnc?oc=5",
-     "fonte": "O GLOBO",
+     "titulo": "Gabarito Enem 2026: correção extraoficial do primeiro dia - Guia do Estudante",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
+     "fonte": "Guia do Estudante",
      "quando": "2026-11-15T05:00-03:00"
     },
     {
@@ -1324,16 +1330,16 @@
      "quando": "2026-11-16T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026: correção extraoficial do primeiro dia - Guia do Estudante",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjROUjJWeVlDeTJvWVcyMjNKd0w5Y1R0UGNELTNuSnhOZnpaYkVxeFhBNlAwWHU3OGJzV084OEdGNHRWYWZLSFd6UHpTMklORy1vbnJ6MWNGOEhwOVV5eHBmZklzcllDNWRteXc3MVJmRG91eG5FdndwbWVmZGRWT1dSeFdvYi1wN3NCS1Q4SUxISHZ3RjFJOEFZNWhYaXJw?oc=5",
-     "fonte": "Guia do Estudante",
-     "quando": "2026-11-15T05:00-03:00"
-    },
-    {
      "titulo": "Gabarito Enem 2026: veja correção extraoficial do 2º dia de prova - TVT News",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fUklEcWk3QTB3N0w4RXNKWTdSRklCLWNyc3JnV1F6RVBnSDhfeUszYjdfU2RSNUdhRGhNcTdDQzRrRjl6MzZ5UXRsWkdBUFRBRUY5SWpPanhlOW1ORWVvWUlndmo?oc=5",
      "fonte": "TVT News",
      "quando": "2026-11-15T05:00-03:00"
+    },
+    {
+     "titulo": "Gabarito Enem 2026: correção extraoficial do segundo dia - Guia do Estudante",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdSSXFJX0ZXaXE5MXY5MmVSMEp4RElIVHk1RWs0SDBRcEJ1RTlVaXJueGFDSHpwai03YTVMOWIzTGJibEUtaVRhaXZ6U2JKNEhVYXppa09vRHhSUFkzWDlCTzRIQ2dWVE92TEFBS3lzX2VHUlFBOWJvT256YXBSV2FlMlNMWEdqbVB2bGFLb2lIb3YwWl9pU2ZaNXdBTjA?oc=5",
+     "fonte": "Guia do Estudante",
+     "quando": "2026-11-16T05:00-03:00"
     },
     {
      "titulo": "Gabarito Enem 2026 do 2º dia: prova verde - Quero Bolsa",
@@ -1342,15 +1348,12 @@
      "quando": "2026-11-17T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026: correção extraoficial do segundo dia - Guia do Estudante",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdSSXFJX0ZXaXE5MXY5MmVSMEp4RElIVHk1RWs0SDBRcEJ1RTlVaXJueGFDSHpwai03YTVMOWIzTGJibEUtaVRhaXZ6U2JKNEhVYXppa09vRHhSUFkzWDlCTzRIQ2dWVE92TEFBS3lzX2VHUlFBOWJvT256YXBSV2FlMlNMWEdqbVB2bGFLb2lIb3YwWl9pU2ZaNXdBTjA?oc=5",
-     "fonte": "Guia do Estudante",
-     "quando": "2026-11-16T05:00-03:00"
+     "titulo": "Gabarito extraoficial Enem 2026: assista à correção do 2° dia de provas - O GLOBO",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeElpdThrMHZJNUdsNUlvZ0hYMXZtYnZKVjJfOTlYdTFGVjVpSllZajNHS19TcGV3Y3YyTU9PWi02N3VGRjdlUEdHSmJzY20wdGZTTWJzQmFpVUhTMEdQa0dGcTFGNzVNYkpCWmZ6LU1lek9tb1hWZXR0YnhBYTZGZFRoaUlGUEVWTXRlYUNyT191SC1vaUZZMlVGVElIT0JXTXlvS0ZuWUxBak1kTElEQllhTTNGR3d6SjlkMTYta1JuOEJHWnBZa3FwY2lDd0hHcDE1OFljeGxCNTV2SU9RWmdIWWVHcGMt0gH3AUFVX3lxTE5XUWtGOWt5aUF4SEFzSFN0anVweG41OXVNQ1RqaERPbjFDX3pybG5RUURITE5RRlIzT2ltRWs5R25vUDdBUjJUQlozSWRGSWRJeXNjRkptYWJsbnNBUXZFRDZldGhSTTdFLTZQRXJtQXYzLVd3RjUtSW1WYmZnVlNxX2VnaFlOUGRsQTZfNnR2T0JSN3ZjaXpHaTVjekcyVU4wR3EtYVNIYjBHTXluOGtwYVRscGJpV0xWVTBiN1g2aUhGTEtfNkNDRmxiM3UtUGZPdlJVdnFnaDZGNWRSYWNfZnM1U0Z6SjRsWFA4cUNnUnpZaUlaTnc?oc=5",
+     "fonte": "O GLOBO",
+     "quando": "2026-11-15T05:00-03:00"
     }
-   ],
-   "desde": {
-    "oficial": "2026-11-18T10:53-03:00"
-   }
+   ]
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -1381,5 +1384,5 @@
    ]
   }
  },
- "verificado": "2026-11-26T05:02-03:00"
+ "verificado": "2026-11-26T06:12-03:00"
 }
