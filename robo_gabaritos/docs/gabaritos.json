@@ -129,7 +129,6 @@
      "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2026_GB_impresso_D2_CD12.pdf"
     }
    ],
-   "log": [],
    "versoes": {
     "Dia 1 · Amarelo (caderno 2)": {
      "dia": 1,
@@ -1262,6 +1261,13 @@
    },
    "status": "oficial",
    "nome": "ENEM 2026",
+   "desde": {
+    "oficial": "2026-11-18T10:53-03:00"
+   },
+   "log": [
+    "gabaritos do Inep ainda não publicados",
+    "fonte indisponível agora; mantido o último gabarito"
+   ],
    "noticias": [
     {
      "titulo": "Gabarito Enem 2026 1º dia prova azul extraoficial e correção das provas - G1",
@@ -1318,10 +1324,10 @@
      "quando": "2026-11-15T05:00-03:00"
     },
     {
-     "titulo": "Gabarito Enem 2026 do 2º dia: prova azul - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JMmR5Sy10ZHI1U19FQWZQS0o4WV9WaFpoWUZHVVVCRkpQdWEzX3FnclJBVDJqODVYeHk0MVhmR3NpbW5IQzNMbG9vU2RkcGtnTEdKejJiQXJSV3VpMWxTSlFyQWZ5TG94cmNJQV83dTI5Vmx2cU0zMEk4cndSdw?oc=5",
+     "titulo": "Gabarito Enem 2026 do 2º dia: prova amarela - Quero Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUTNDMi1xWjlsc3VxZThpQlB1OXFpa0xxMFh5Um1KUDdVdHY0WlV6cWZRTTNVWms0STQ5NWZzMGo1N1FLdFphbVF1eV9mMUVHelI5emY4LWs0dXNvME1DcjlTTGFIMC1rRGJFSkJraVFRb0NiUVFrbjJ5QXFkZw?oc=5",
      "fonte": "Quero Bolsa",
-     "quando": "2026-11-17T05:00-03:00"
+     "quando": "2026-11-15T05:00-03:00"
     },
     {
      "titulo": "Gabarito Enem 2026: confira as respostas extraoficiais do 2º dia de prova - CNN Brasil",
@@ -1335,10 +1341,7 @@
      "fonte": "Guia do Estudante",
      "quando": "2026-11-16T05:00-03:00"
     }
-   ],
-   "desde": {
-    "oficial": "2026-11-18T10:53-03:00"
-   }
+   ]
   },
   "ufrgs27": {
    "status": "aguardando",
@@ -1369,5 +1372,5 @@
    ]
   }
  },
- "verificado": "2026-11-27T18:59-03:00"
+ "verificado": "2026-11-27T19:49-03:00"
 }
