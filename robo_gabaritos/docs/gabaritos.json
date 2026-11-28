@@ -1294,6 +1294,12 @@
      "quando": "2026-11-08T05:00-03:00"
     },
     {
+     "titulo": "Gabarito Enem 2026 1º dia prova verde extraoficial e correção das provas - G1",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLUVHTnI0dGZqb25LTEpqTXVzYlRLZ1FwcGlwSUlJUGQ1Qk9aRTBDVjZmVjc4REJRUmc4ejNGeFJhUnVWSUFIUzc5Qk8yQnlOU0t2U3d0NkEyaEcxYlZLblFBY2tFWlhMc1pYWUtLaldXNGNWV0JkWXVGNnRPbVE5WW5BTjYyVlJlOEoxbWFCNktGUGxvd1poVV8wTWVDckpoZXJxTmxnSVpwMUI0WDFrajl6dDllUVRvUnRKbG9kSG5KSTFlRkttVFFMYlZTLUljTjRF0gHiAUFVX3lxTFAtWnJYM0d6QnM3ZmhjSU5yMDNkZW1KOHlPZTBiWi1kUHdERGdCQzkxLUZNVS1oTkR2T09rbkFzdmNEdmkzRFhxRTQ1ZDQ3N0RGUDEwMldjelRsNlpRX3JuRHhjLUpxZ2F1ZGRLckpmb09LMG5hNDZ5bXVSRmdScHNMU0RlZm9zMEtNOXlnSENUcVpwckJoTUlibmQ0elJKZXJKMm52bGR2T1BRNEQxN1ktQWdmb3oyTEVaWDg0eWhESDJ2UGhHdXQ1dG9JVlZpR3BHandxRlBEa0ozSXoxS2gyOXc?oc=5",
+     "fonte": "G1",
+     "quando": "2026-11-08T05:00-03:00"
+    },
+    {
      "titulo": "Gabarito prova branca Enem 2026 extraoficial e correção das provas - G1",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTR2cDBLRi1BbFJFSGZkUVhwUUs1N2dtUVl3NGNKcmVUWWtvYTNfaXZuaU5hSjl0YTVGUHlNNmp1YVJBY1BHYWtSenlIYThtREd6WkdXMmhCZmZWbkIzaWVOS3RvVjAxb0RWZl9tSzREejJsTVMyOXdxWURvTHNjOHIzckN5Vlc3eWpEVGpaNFBQUXE2UWNvNG8tNm1Hcko1YjVKOWRCa2xXVXNIWENwY2haVW5MTjgzOVQxTVpFeHVxcnliYXdtUTNpY9IB2gFBVV95cUxPMGFLWHFOanFyOTdyUEtab2hzUll4ZVRxeThBMzhveHVmRUVIeUpYUnJOa2gyZzJFQ05YbjBUN2tMdmFuR0ZtaVl3SThtWTFCRVl3WVlYc3lVdFNUZDVaYTg3ZEtrNFFaZC1scHhvWFMxUng2d19KU0RVZDA4M1lSc0N3S0ZxR2FvVzNkMlV5N0pYOG1qTkhlSzNHdG9rTUtWTV9obVJWdXdvSzN2VFlnNFd4RFJxY18zRmhNQnBDbnJ5UUktZ3RGWGZ4Z0d3Q1MwREZfZlVrdXJnQQ?oc=5",
      "fonte": "G1",
@@ -1328,12 +1334,6 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fUklEcWk3QTB3N0w4RXNKWTdSRklCLWNyc3JnV1F6RVBnSDhfeUszYjdfU2RSNUdhRGhNcTdDQzRrRjl6MzZ5UXRsWkdBUFRBRUY5SWpPanhlOW1ORWVvWUlndmo?oc=5",
      "fonte": "TVT News",
      "quando": "2026-11-15T05:00-03:00"
-    },
-    {
-     "titulo": "Gabarito extraoficial do Enem 2026 disponível; acompanhe a correção - Quero Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xLVIyZklPYkRIU01XLXVVOC1MLWluRHduMGZEMFdCeDNVeXgwMVZqTGxBRXc2TzhpTnhuelJlemhSNGVwT3VYOGJ2T0Z4OWtlTjRmODhidHFqRWtrUnppVXNKT2VvaXRmNDgxbTNvRHc0V2txX3Vv?oc=5",
-     "fonte": "Quero Bolsa",
-     "quando": "2026-11-16T05:00-03:00"
     }
    ],
    "desde": {
@@ -1341,11 +1341,14 @@
    }
   },
   "ufrgs27": {
+   "fontes": [],
+   "log": [
+    "página de gabaritos ainda não publicada (404)"
+   ],
    "status": "aguardando",
    "nome": "UFRGS 2027",
-   "log": [
-    "robô começa a vigiar em 2026-11-28"
-   ]
+   "noticias": [],
+   "desde": {}
   },
   "pucrs27": {
    "status": "aguardando",
@@ -1369,5 +1372,5 @@
    ]
   }
  },
- "verificado": "2026-11-27T23:40-03:00"
+ "verificado": "2026-11-28T00:31-03:00"
 }
